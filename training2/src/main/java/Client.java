@@ -32,7 +32,13 @@ public class Client {
 
         //Person.printEligblePersons(personList, new CheckPersonEligible());
 
-        Person.printEligblePersons(personList, (Person p)-> p.getGender() ==Person.Sex.MALE &&p.getAge()>=20);
+        //Person.printEligblePersons(personList, (Person p)-> p.getGender() ==Person.Sex.MALE &&p.getAge()>=20);
+
+        Person.sumTwoAges(Ewa,Lukasz);
+
+//        IAddable<Integer> agesAdder=(Person p1, Person p2)->p1.getAge()+p2.getAge();
+//
+//        Person.sumTwoAges(Ewa, Lukasz, (Person p1, Person p2)->p1.getAge()+p2.getAge());
 
     }
 

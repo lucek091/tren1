@@ -78,6 +78,15 @@ public class Person {
 
     }
 
+    public static void sumTwoAges(Person p1, Person p2){
+        IAddable<Integer> addAges=(Integer p3, Integer p4)->p3+p4;
+
+        System.out.print(addAges.add(p1.getAge(), p2.getAge()));
+
+    }
+
+
+
 
 
 
