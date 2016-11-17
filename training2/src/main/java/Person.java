@@ -6,15 +6,13 @@ import java.util.List;
 /**
  * Created by kdeveloper on 11/16/16.
  */
-public class Person {
+public abstract class Person {
 
     public enum Sex{
         MALE, FEMALE
     }
 
     String name;
-
-
     Sex gender;
     String emailAddress;
     int age;
