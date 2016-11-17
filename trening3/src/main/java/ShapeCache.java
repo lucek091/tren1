@@ -4,7 +4,7 @@ import java.util.Hashtable;
  * Created by kdeveloper on 11/17/16.
  */
 public class ShapeCache {
-    private static Hashtable<String, Shape> shapeMap=new Hashtable<String, Shape>();
+    public static Hashtable<String, Shape> shapeMap=new Hashtable<String, Shape>();
 
     public static Shape getShape (String shapeId){
         Shape cachedShape=shapeMap.get(shapeId);

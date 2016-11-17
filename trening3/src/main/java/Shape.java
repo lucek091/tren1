@@ -30,4 +30,11 @@ public abstract class Shape implements Cloneable {
         }
         return clone;
     }
+
+    @Override
+    public String toString() {
+        return "{" +
+                 "type='" + type + '\'' +
+                '}';
+    }
 }
