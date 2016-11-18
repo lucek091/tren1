@@ -1,0 +1,12 @@
+Nov 18, 2016 1:51:32 PM Client main
+INFO: elapsed time WITH concurrency [NANO]: 1064866268
+Nov 18, 2016 1:51:32 PM Client main
+INFO: elapsed time WITH concurrency [CURRENT]: 1065
+Nov 18, 2016 1:51:32 PM Client main
+INFO: elapsed time WITHOUT concurrency [NANO]: 445123917
+Nov 18, 2016 1:51:32 PM Client main
+INFO: elapsed time WITHOUT concurrency [CURRENT]: 445
+Nov 18, 2016 1:51:32 PM Client main
+INFO: elapsed time WITH concurrency 2 THREADS MAX [NANO]: 3486185
+Nov 18, 2016 1:51:32 PM Client main
+INFO: elapsed time WITH concurrency 2 THREADS MAX [CURRENT]: 3

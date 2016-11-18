@@ -1,0 +1,4030 @@
+    Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+
+
+
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that     Subclass Thread. The Thread class itself implements Runnable, 
+though its run method does nothing. An application
+ can subclass Thread, providing its own implementation of run, as in the HelloThread example:
+
+
+    public class HelloThread extends Thread {
+
+        public void run() {
+
+            System.out.println("Hello from a thread!");
+        }
+
+
+        public static void ma
+in(String args[]) {
+            (new HelloThread()).start();
+        }
+
+    }
+
+
+Notice that both examples invoke T
+hread.start in order to start the new thread.
+
+Which of these idioms should y
+ou use? The first idiom, which employs a Runnable object, is more general, because the Runnable object can subclass a class other than Thread. The second idiom is easier to use 
+in simple applications, but is limited by the fact that 
